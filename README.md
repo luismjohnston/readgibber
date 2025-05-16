@@ -17,7 +17,7 @@ This repository contains the legal documents for the Gibber app:
 
 ### Contact Us
 
-If you have any questions about Gibber or these documents, please reach out to us at readgibber@gmail.com or visit our [Support Page)](support.md)
+If you have any questions about Gibber or these documents, please reach out to us at readgibber@gmail.com or visit our [Support Page](support.md)
 
 ---
 
