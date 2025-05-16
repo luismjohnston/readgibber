@@ -7,8 +7,8 @@ Gibber is an innovative storytelling app designed specifically for children, usi
 ### About This Repository
 
 This repository contains the legal documents for the Gibber app:
-- [Privacy Policy](privacy-policy.md) - Details on how we protect your child's data and privacy
-- [Terms of Use (EULA)](terms-of-use.md) - Information about using Gibber and subscription terms
+- [Privacy Policy](https://luismjohnston.github.io/readgibber/privacy-policy.html) - Details on how we protect your child's data and privacy
+- [Terms of Use (EULA)](https://luismjohnston.github.io/readgibber/terms-of-use.html) - Information about using Gibber and subscription terms
 
 ### Features of Gibber
 
@@ -17,7 +17,7 @@ This repository contains the legal documents for the Gibber app:
 
 ### Contact Us
 
-If you have any questions about Gibber or these documents, please reach out to us at readgibber@gmail.com or visit our [Support Page](support.md)
+If you have any questions about Gibber or these documents, please reach out to us at readgibber@gmail.com or visit our [Support Page](https://luismjohnston.github.io/readgibber/support.html)
 
 ---
 
