@@ -9,10 +9,10 @@ Need help with Gibber? We're here to assist you!
 ## Frequently Asked Questions
 
 ### How do I create a personalized story?
-Tap the "Create New Story" button and follow the prompts to customize a story based on your child's interests.
+Tap a story idea in the story library to read one of dozens of custom curated stories or click on the wand in the top left hand corner to enter your own prompt. When entering your own prompt you can generate a list of story ideas or a story directly. If you want fresh story ideas pull down on the page in the story library.
 
 ### How do I manage my subscription?
-You can manage your subscription through your App Store account settings.
+You can manage your subscription through your App Store account settings or under Mange Subscription within Settings. 
 
 ### Is my child's data safe?
 Yes! Gibber takes privacy very seriously. Please read our [Privacy Policy](https://github.com/luismjohnston/readgibber/blob/main/privacy-policy.md) for more details.
