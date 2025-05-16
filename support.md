@@ -15,7 +15,7 @@ Tap a story idea in the story library to read one of dozens of custom curated st
 You can manage your subscription through your App Store account settings or under Mange Subscription within Settings. 
 
 ### Is my child's data safe?
-Yes! Gibber takes privacy very seriously. Please read our [Privacy Policy](https://github.com/luismjohnston/readgibber/blob/main/privacy-policy.md) for more details.
+Yes! Gibber takes privacy very seriously. Please read our [Privacy Policy](https://luismjohnston.github.io/readgibber/privacy-policy.html) for more details.
 
 ### App isn't working properly
 If you're experiencing technical issues, please try the following:
